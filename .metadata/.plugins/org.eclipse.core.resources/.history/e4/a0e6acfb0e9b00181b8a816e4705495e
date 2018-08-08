@@ -1,0 +1,25 @@
+'''
+Created on 08.08.2018
+
+@author: Vincent Dost
+'''
+
+from tkinter import *
+
+root = Tk()
+
+def notAvailable():
+    tkMessageBox.showinfo("Warnung", "Dieser Teil ist noch nicht fertig")
+
+bttn1 = Button(root, text="Kamera", command=notAvailable)
+bttn1.grid()
+bttn2 = Button(root, text="Sensoren", command=notAvailable)
+bttn2.grid()
+bttn3 = Button(root, text="RFID", command=notAvailable)
+bttn3.grid()
+bttn4 = Button(root, text="Raspberry", command=notAvailable)
+bttn4.grid()
+bttn5 = Button(root, text="Akkustand", command=notAvailable)
+bttn5.grid()
+
+root.mainloop()

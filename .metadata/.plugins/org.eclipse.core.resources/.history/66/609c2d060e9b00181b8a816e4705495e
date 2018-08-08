@@ -1,0 +1,14 @@
+'''
+Created on 08.08.2018
+
+@author: Vincent Dost
+'''
+
+from tkinter import *
+
+root = Tk()
+
+bttn1 = Button(root, "Kamera")
+bttn1.grid()
+
+root.mainloop()

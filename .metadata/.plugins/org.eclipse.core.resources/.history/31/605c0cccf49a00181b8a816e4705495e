@@ -1,0 +1,8 @@
+'''
+Created on 08.08.2018
+
+@author: Vincent Dost
+'''
+import tkinter
+top = tkinter.Tk()
+top.mainloop()

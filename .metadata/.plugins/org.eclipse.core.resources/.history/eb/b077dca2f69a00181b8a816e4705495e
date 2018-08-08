@@ -1,0 +1,14 @@
+'''
+Created on 08.08.2018
+
+@author: Vincent Dost
+'''
+from tkinter import *
+
+root = Tk()
+var = StringVar()
+label = Label(root, textvariable=var, relief=RAISED)
+var.set("Test")
+label.pack()
+
+root.mainloop()
