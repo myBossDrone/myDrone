@@ -3,7 +3,7 @@
 C:\Users\Agando\Documents\GitHub\myDrone\.metadata\.plugins\org.eclipse.core.resources\.projects\bossDrone\com.python.pydev.analysis\v2_indexcache
 main.__init__|1528394570595063000|C:\Users\Agando\Documents\GitHub\myDrone\bossDrone\main\__init__.py
 main.backend|1530275472001741000|C:\Users\Agando\Documents\GitHub\myDrone\bossDrone\main\backend.py
-main.frontend|1533734996101659000|C:\Users\Agando\Documents\GitHub\myDrone\bossDrone\main\frontend.py
+main.frontend|1533821594137153000|C:\Users\Agando\Documents\GitHub\myDrone\bossDrone\main\frontend.py
 -- END DISKCACHE
 -- START DICTIONARY
 4
@@ -13,24 +13,18 @@ main.frontend|1533734996101659000|C:\Users\Agando\Documents\GitHub\myDrone\bossD
 1=C:\Users\Agando\Documents\GitHub\myDrone\bossDrone\main\frontend.py
 -- END DICTIONARY
 -- START TREE 1
-19
-btt|5|bttn1!1^11#1*19@bttn4!1^17#1*19@bttn2!1^13#1*19@bttn5!1^19#1*19@bttn3!1^15#1*19@
-but|0|
+13
+btt|5|bttn1!1^19#1*19@bttn4!1^28#1*19@bttn2!1^22#1*19@bttn5!1^31#1*19@bttn3!1^25#1*19@
 cod|1|code!3^31#5*35@
-fra|0|
 int|1|intToString!3^16#5*34@
-lab|0|
 log|2|logOut!3^26#5*34@logIn!3^21#5*34@
-not|0|
 rea|1|readChannel!3^11#5*34@
-roo|1|root!1^9#1*19@
+roo|1|root!1^10#1*19@
+scr|2|screen_height!1^14#1*19@screen_width!1^13#1*19@
 spi|1|spi!3^7#1*35@
 swt|1|swt_channel!3^4#1*35@
-t|0|
 tmp|1|tmp!3^32#5*35@
-top|0|
 use|1|userLogin!3^9#1*35@
-var|0|
 vrx|1|vrx_channel!3^5#1*35@
 vry|1|vry_channel!3^6#1*35@
 -- END TREE

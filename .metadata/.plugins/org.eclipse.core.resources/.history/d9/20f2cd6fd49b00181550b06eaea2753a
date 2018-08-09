@@ -1,0 +1,28 @@
+'''
+Created on 08.08.2018
+
+@author: Vincent Dost
+'''
+
+from tkinter import *
+
+root = Tk()
+root.geometry("800x400")
+
+bttn1 = Button(root, text="Kamera")
+bttn1.config(height=2.5, width=5)
+bttn1.pack()
+bttn2 = Button(root, text="Sensoren")
+bttn2.config(height=2.5, width=5)
+bttn2.pack()
+bttn3 = Button(root, text="RFID")
+bttn3.config(height=2.5, width=5)
+bttn3.pack()
+bttn4 = Button(root, text="Raspberry")
+bttn4.config(height=2.5, width=5)
+bttn4.pack()
+bttn5 = Button(root, text="Akkustand")
+bttn5.config(height=2.5, width=5)
+bttn5.pack()
+
+root.mainloop()

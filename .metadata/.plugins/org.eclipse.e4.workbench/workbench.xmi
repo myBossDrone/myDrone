@@ -3,7 +3,7 @@
   <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;workbench>&#xD;&#xA;&lt;mruList>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.python.pydev.editor.PythonEditor&quot; name=&quot;frontend.py&quot; tooltip=&quot;bossDrone/main/frontend.py&quot;>&#xD;&#xA;&lt;persistable path=&quot;/bossDrone/main/frontend.py&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.python.pydev.editor.PythonEditor&quot; name=&quot;joystick.py&quot; tooltip=&quot;bossDrone/main/joystick.py&quot;>&#xD;&#xA;&lt;persistable path=&quot;/bossDrone/main/joystick.py&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.python.pydev.editor.PythonEditor&quot; name=&quot;__init__.py&quot; tooltip=&quot;bossDrone/main/__init__.py&quot;>&#xD;&#xA;&lt;persistable path=&quot;/bossDrone/main/__init__.py&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.python.pydev.editor.PythonEditor&quot; name=&quot;backend.py&quot; tooltip=&quot;bossDrone/main/backend.py&quot;>&#xD;&#xA;&lt;persistable path=&quot;/bossDrone/main/backend.py&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;/mruList>&#xD;&#xA;&lt;/workbench>"/>
   <tags>activeSchemeId:org.eclipse.ui.defaultAcceleratorConfiguration</tags>
   <tags>ModelMigrationProcessor.001</tags>
-  <children xsi:type="basic:TrimmedWindow" xmi:id="_xRQXMmp7EeiXJN9sJ-FkuA" elementId="IDEWindow" contributorURI="platform:/plugin/org.eclipse.platform" selectedElement="_xzXlwWp7EeiXJN9sJ-FkuA" label="%trimmedwindow.label.eclipseSDK" x="460" y="-17" width="1024" height="768">
+  <children xsi:type="basic:TrimmedWindow" xmi:id="_xRQXMmp7EeiXJN9sJ-FkuA" elementId="IDEWindow" contributorURI="platform:/plugin/org.eclipse.platform" selectedElement="_xzXlwWp7EeiXJN9sJ-FkuA" label="%trimmedwindow.label.eclipseSDK" x="0" y="0" width="1024" height="768">
     <persistedState key="coolBarVisible" value="true"/>
     <persistedState key="perspectiveBarVisible" value="true"/>
     <persistedState key="isRestored" value="true"/>
@@ -152,7 +152,7 @@
               <tags>noFocus</tags>
               <children xsi:type="advanced:Placeholder" xmi:id="_7A4eM2p7EeiXJN9sJ-FkuA" elementId="org.python.pydev.navigator.view" ref="_7Ay-oGp7EeiXJN9sJ-FkuA"/>
             </children>
-            <children xsi:type="basic:PartSashContainer" xmi:id="_7A4eNGp7EeiXJN9sJ-FkuA" containerData="7400" selectedElement="_7A4eOWp7EeiXJN9sJ-FkuA">
+            <children xsi:type="basic:PartSashContainer" xmi:id="_7A4eNGp7EeiXJN9sJ-FkuA" containerData="7400" selectedElement="_7A4eNWp7EeiXJN9sJ-FkuA">
               <children xsi:type="basic:PartSashContainer" xmi:id="_7A4eNWp7EeiXJN9sJ-FkuA" containerData="7500" selectedElement="_7A4eNmp7EeiXJN9sJ-FkuA" horizontal="true">
                 <children xsi:type="advanced:Placeholder" xmi:id="_7A4eNmp7EeiXJN9sJ-FkuA" elementId="org.eclipse.ui.editorss" containerData="7500" ref="_yEWoEGp7EeiXJN9sJ-FkuA"/>
                 <children xsi:type="basic:PartStack" xmi:id="_7A4eN2p7EeiXJN9sJ-FkuA" elementId="org.eclipse.ui.views.ContentOutlineMStack" containerData="2500" selectedElement="_7A4eOGp7EeiXJN9sJ-FkuA">
@@ -216,7 +216,7 @@
           <tags>removeOnHide</tags>
         </children>
         <children xsi:type="basic:Part" xmi:id="_6VZNoJsBEeirKPVrFkD6yg" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="frontend" iconURI="platform:/plugin/org.python.pydev.shared_ui/icons/python_file.gif" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.python.pydev.editor.PythonEditor&quot; name=&quot;frontend.py&quot; partName=&quot;frontend&quot; title=&quot;frontend&quot; tooltip=&quot;bossDrone/main/frontend.py&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/bossDrone/main/frontend.py&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;344&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.python.pydev.editor.PythonEditor&quot; name=&quot;frontend.py&quot; partName=&quot;frontend&quot; title=&quot;frontend&quot; tooltip=&quot;bossDrone/main/frontend.py&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/bossDrone/main/frontend.py&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;561&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
           <tags>Editor</tags>
           <tags>org.python.pydev.editor.PythonEditor</tags>
           <tags>removeOnHide</tags>
@@ -373,7 +373,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_x2H-0Gp7EeiXJN9sJ-FkuA" elementId="org.eclipse.ui.workbench.file">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_-c2JAJryEeirKPVrFkD6yg" elementId="print" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" command="_xSP1uWp7EeiXJN9sJ-FkuA"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_LnbDIJvTEeiTHr4e97TIRQ" elementId="print" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" command="_xSP1uWp7EeiXJN9sJ-FkuA"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_x2Il4Gp7EeiXJN9sJ-FkuA" elementId="additions" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -397,7 +397,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_x2JM8mp7EeiXJN9sJ-FkuA" elementId="org.eclipse.ui.workbench.navigate">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_-c_6A5ryEeirKPVrFkD6yg" elementId="org.eclipse.ui.window.pinEditor" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" type="Check" command="_xSOnq2p7EeiXJN9sJ-FkuA"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_LnfUkJvTEeiTHr4e97TIRQ" elementId="org.eclipse.ui.window.pinEditor" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" type="Check" command="_xSOnq2p7EeiXJN9sJ-FkuA"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_x2J0AGp7EeiXJN9sJ-FkuA" elementId="group.editor" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -2429,7 +2429,7 @@
   <addons xmi:id="_xRQ-Smp7EeiXJN9sJ-FkuA" elementId="MinMax Addon" contributorURI="platform:/plugin/org.eclipse.platform" contributionURI="bundleclass://org.eclipse.e4.ui.workbench.addons.swt/org.eclipse.e4.ui.workbench.addons.minmax.MinMaxAddon"/>
   <addons xmi:id="_xRQ-S2p7EeiXJN9sJ-FkuA" elementId="org.eclipse.ui.workbench.addon.0" contributorURI="platform:/plugin/org.eclipse.platform" contributionURI="bundleclass://org.eclipse.e4.ui.workbench/org.eclipse.e4.ui.internal.workbench.addons.HandlerProcessingAddon"/>
   <addons xmi:id="_xRavQGp7EeiXJN9sJ-FkuA" elementId="SplitterAddon" contributionURI="bundleclass://org.eclipse.e4.ui.workbench.addons.swt/org.eclipse.e4.ui.workbench.addons.splitteraddon.SplitterAddon"/>
-  <addons xmi:id="_86u2AZryEeirKPVrFkD6yg" elementId="org.eclipse.ui.ide.addon.0" contributionURI="bundleclass://org.eclipse.ui.ide/org.eclipse.ui.internal.ide.addons.SaveAllDirtyPartsAddon"/>
+  <addons xmi:id="_IYS0IKimEeS11vbz3f9ezw" elementId="org.eclipse.ui.ide.addon.0" contributorURI="platform:/plugin/org.eclipse.ui.ide" contributionURI="bundleclass://org.eclipse.ui.ide/org.eclipse.ui.internal.ide.addons.SaveAllDirtyPartsAddon"/>
   <addons xmi:id="_dz0JgGOlEeSMMaPQU2nlzw" elementId="org.eclipse.ui.ide.application.addon.0" contributorURI="platform:/plugin/org.eclipse.ui.ide.application" contributionURI="bundleclass://org.eclipse.ui.ide.application/org.eclipse.ui.internal.ide.application.addons.ModelCleanupAddon"/>
   <categories xmi:id="_xR-I4Gp7EeiXJN9sJ-FkuA" elementId="org.eclipse.team.ui.category.team" name="Team" description="Actions that apply when working with a Team"/>
   <categories xmi:id="_xR-v8Gp7EeiXJN9sJ-FkuA" elementId="org.eclipse.ui.category.views" name="Views" description="Commands for opening views"/>
